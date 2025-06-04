@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cnc-api
+    name: api
     env: python
     plan: free
     buildCommand: ""
